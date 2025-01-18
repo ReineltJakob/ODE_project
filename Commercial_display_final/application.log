@@ -1,0 +1,212 @@
+Jän. 18, 2025 7:20:27 AM at.fhw.commercial_test.Server lambda$start$4
+INFORMATION: Aktivierte Dateien: 01_Nucleo_L432KC_Pinout.png
+Jän. 18, 2025 7:20:31 AM at.fhw.commercial_test.Server lambda$start$4
+INFORMATION: Aktivierte Dateien: nucleo32_click_shield_3d_view_front.jpg
+Jän. 18, 2025 7:20:36 AM at.fhw.commercial_test.Server lambda$start$4
+INFORMATION: Aktivierte Dateien: 01_Nucleo_L432KC_Pinout.png, nucleo32_click_shield_3d_view_front.jpg
+Jän. 18, 2025 7:43:55 AM at.fhw.commercial_test.Client lambda$start$3
+INFORMATION: Undo Last Action-Button wurde gedrückt.
+Jän. 18, 2025 7:43:55 AM at.fhw.commercial_test.Client undoLastAction
+INFORMATION: Keine Aktion zum Rückgängigmachen vorhanden.
+Jän. 18, 2025 7:51:04 AM at.fhw.commercial_test.Server lambda$start$3
+INFORMATION: Datei hochgeladen: Werbeimage5.jpg
+Jän. 18, 2025 7:51:09 AM at.fhw.commercial_test.Server lambda$start$3
+INFORMATION: Datei hochgeladen: Werbeimage1.jpg
+Jän. 18, 2025 7:51:15 AM at.fhw.commercial_test.Server lambda$start$3
+INFORMATION: Datei hochgeladen: Werbungimage2.jpg
+Jän. 18, 2025 7:51:26 AM at.fhw.commercial_test.Server lambda$start$3
+INFORMATION: Datei hochgeladen: Werbeimage6.jpg
+Jän. 18, 2025 7:52:02 AM at.fhw.commercial_test.Server lambda$start$3
+INFORMATION: Datei hochgeladen: Werbeimage4.jpg
+Jän. 18, 2025 7:52:07 AM at.fhw.commercial_test.Server lambda$start$3
+INFORMATION: Datei hochgeladen: Werbeimage3.png
+Jän. 18, 2025 7:52:20 AM at.fhw.commercial_test.Server lambda$start$4
+INFORMATION: Aktivierte Dateien: Werbeimage1.jpg, Werbeimage3.png, Werbeimage5.jpg, Werbungimage2.jpg
+Jän. 18, 2025 7:59:34 AM at.fhw.commercial_test.Server lambda$start$4
+INFORMATION: Aktivierte Dateien: Werbeimage1.jpg
+Jän. 18, 2025 7:59:35 AM at.fhw.commercial_test.Server lambda$start$4
+INFORMATION: Aktivierte Dateien: Werbeimage5.jpg
+Jän. 18, 2025 7:59:38 AM at.fhw.commercial_test.Server lambda$start$4
+INFORMATION: Aktivierte Dateien: Werbeimage1.jpg, Werbeimage5.jpg, Werbeimage6.jpg, Werbungimage2.jpg
+Jän. 18, 2025 7:59:48 AM at.fhw.commercial_test.Server lambda$start$4
+INFORMATION: Aktivierte Dateien: Werbeimage3.png, Werbeimage4.jpg, Werbeimage5.jpg, Werbeimage6.jpg
+Jän. 18, 2025 7:59:56 AM at.fhw.commercial_test.Server lambda$start$4
+INFORMATION: Aktivierte Dateien: Werbeimage1.jpg, Werbeimage3.png, Werbeimage4.jpg, Werbeimage5.jpg
+Jän. 18, 2025 8:02:50 AM at.fhw.commercial_test.Server lambda$start$4
+WARNUNG: Activation limit exceeded: Attempted to activate more than 4 files.
+Jän. 18, 2025 8:03:04 AM at.fhw.commercial_test.Server lambda$start$4
+INFORMATION: Aktivierte Dateien: Werbeimage1.jpg, Werbeimage2.jpg, Werbeimage4.jpg, Werbeimage6.jpg
+Jän. 18, 2025 8:04:08 AM at.fhw.commercial_test.Server lambda$start$4
+WARNUNG: Activation limit exceeded: Attempted to activate more than 4 files.
+Jän. 18, 2025 8:06:08 AM at.fhw.commercial_test.Server lambda$start$4
+WARNUNG: Activation limit exceeded: Attempted to activate more than 4 files.
+Jän. 18, 2025 8:08:46 AM at.fhw.commercial_test.Server lambda$start$4
+INFORMATION: Aktivierte Dateien: Werbeimage2.jpg, Werbeimage3.png, Werbeimage5.jpg, Werbeimage6.jpg
+Jän. 18, 2025 8:08:47 AM at.fhw.commercial_test.Server handleClient
+INFORMATION: Datei gesendet: Werbeimage2.jpg
+Jän. 18, 2025 8:08:47 AM at.fhw.commercial_test.Server handleClient
+INFORMATION: Datei gesendet: Werbeimage3.png
+Jän. 18, 2025 8:08:47 AM at.fhw.commercial_test.Server handleClient
+INFORMATION: Datei gesendet: Werbeimage5.jpg
+Jän. 18, 2025 8:08:47 AM at.fhw.commercial_test.Server handleClient
+INFORMATION: Datei gesendet: Werbeimage6.jpg
+Jän. 18, 2025 8:09:06 AM at.fhw.commercial_test.Server lambda$start$4
+WARNUNG: Activation limit exceeded: Attempted to activate more than 4 files.
+Jän. 18, 2025 8:09:07 AM at.fhw.commercial_test.Server handleClient
+INFORMATION: Datei gesendet: Werbeimage2.jpg
+Jän. 18, 2025 8:09:07 AM at.fhw.commercial_test.Server handleClient
+INFORMATION: Datei gesendet: Werbeimage3.png
+Jän. 18, 2025 8:09:07 AM at.fhw.commercial_test.Server handleClient
+INFORMATION: Datei gesendet: Werbeimage5.jpg
+Jän. 18, 2025 8:09:07 AM at.fhw.commercial_test.Server handleClient
+INFORMATION: Datei gesendet: Werbeimage6.jpg
+Jän. 18, 2025 8:09:19 AM at.fhw.commercial_test.Server handleClient
+INFORMATION: Datei gesendet: Werbeimage2.jpg
+Jän. 18, 2025 8:09:19 AM at.fhw.commercial_test.Server handleClient
+INFORMATION: Datei gesendet: Werbeimage3.png
+Jän. 18, 2025 8:09:19 AM at.fhw.commercial_test.Server handleClient
+INFORMATION: Datei gesendet: Werbeimage5.jpg
+Jän. 18, 2025 8:09:19 AM at.fhw.commercial_test.Server handleClient
+INFORMATION: Datei gesendet: Werbeimage6.jpg
+Jän. 18, 2025 8:09:24 AM at.fhw.commercial_test.Server lambda$start$4
+WARNUNG: Activation limit exceeded: Attempted to activate more than 4 files.
+Jän. 18, 2025 8:09:25 AM at.fhw.commercial_test.Server handleClient
+INFORMATION: Datei gesendet: Werbeimage2.jpg
+Jän. 18, 2025 8:09:25 AM at.fhw.commercial_test.Server handleClient
+INFORMATION: Datei gesendet: Werbeimage3.png
+Jän. 18, 2025 8:09:25 AM at.fhw.commercial_test.Server handleClient
+INFORMATION: Datei gesendet: Werbeimage5.jpg
+Jän. 18, 2025 8:09:25 AM at.fhw.commercial_test.Server handleClient
+INFORMATION: Datei gesendet: Werbeimage6.jpg
+Jän. 18, 2025 8:09:35 AM at.fhw.commercial_test.Server handleClient
+INFORMATION: Datei gesendet: Werbeimage2.jpg
+Jän. 18, 2025 8:09:35 AM at.fhw.commercial_test.Server handleClient
+INFORMATION: Datei gesendet: Werbeimage3.png
+Jän. 18, 2025 8:09:35 AM at.fhw.commercial_test.Server handleClient
+INFORMATION: Datei gesendet: Werbeimage5.jpg
+Jän. 18, 2025 8:09:35 AM at.fhw.commercial_test.Server handleClient
+INFORMATION: Datei gesendet: Werbeimage6.jpg
+Jän. 18, 2025 8:09:40 AM at.fhw.commercial_test.Server handleClient
+INFORMATION: Datei gesendet: Werbeimage2.jpg
+Jän. 18, 2025 8:09:40 AM at.fhw.commercial_test.Server handleClient
+INFORMATION: Datei gesendet: Werbeimage3.png
+Jän. 18, 2025 8:09:40 AM at.fhw.commercial_test.Server handleClient
+INFORMATION: Datei gesendet: Werbeimage5.jpg
+Jän. 18, 2025 8:09:40 AM at.fhw.commercial_test.Server handleClient
+INFORMATION: Datei gesendet: Werbeimage6.jpg
+Jän. 18, 2025 8:12:19 AM at.fhw.commercial_test.Server handleClient
+INFORMATION: Keine aktiven Dateien an den Client gesendet.
+Jän. 18, 2025 8:12:25 AM at.fhw.commercial_test.Server lambda$start$4
+INFORMATION: Aktivierte Dateien: Werbeimage2.jpg, Werbeimage3.png, Werbeimage5.jpg, Werbeimage6.jpg
+Jän. 18, 2025 8:12:26 AM at.fhw.commercial_test.Server handleClient
+INFORMATION: Datei gesendet: Werbeimage2.jpg
+Jän. 18, 2025 8:12:26 AM at.fhw.commercial_test.Server handleClient
+INFORMATION: Datei gesendet: Werbeimage3.png
+Jän. 18, 2025 8:12:26 AM at.fhw.commercial_test.Server handleClient
+INFORMATION: Datei gesendet: Werbeimage5.jpg
+Jän. 18, 2025 8:12:26 AM at.fhw.commercial_test.Server handleClient
+INFORMATION: Datei gesendet: Werbeimage6.jpg
+Jän. 18, 2025 8:12:39 AM at.fhw.commercial_test.Server lambda$start$4
+WARNUNG: Activation limit exceeded: Attempted to activate more than 4 files.
+Jän. 18, 2025 8:12:41 AM at.fhw.commercial_test.Server handleClient
+INFORMATION: Datei gesendet: Werbeimage2.jpg
+Jän. 18, 2025 8:12:41 AM at.fhw.commercial_test.Server handleClient
+INFORMATION: Datei gesendet: Werbeimage3.png
+Jän. 18, 2025 8:12:41 AM at.fhw.commercial_test.Server handleClient
+INFORMATION: Datei gesendet: Werbeimage5.jpg
+Jän. 18, 2025 8:12:41 AM at.fhw.commercial_test.Server handleClient
+INFORMATION: Datei gesendet: Werbeimage6.jpg
+Jän. 18, 2025 8:12:43 AM at.fhw.commercial_test.Server handleClient
+INFORMATION: Datei gesendet: Werbeimage2.jpg
+Jän. 18, 2025 8:12:43 AM at.fhw.commercial_test.Server handleClient
+INFORMATION: Datei gesendet: Werbeimage3.png
+Jän. 18, 2025 8:12:43 AM at.fhw.commercial_test.Server handleClient
+INFORMATION: Datei gesendet: Werbeimage5.jpg
+Jän. 18, 2025 8:12:43 AM at.fhw.commercial_test.Server handleClient
+INFORMATION: Datei gesendet: Werbeimage6.jpg
+Jän. 18, 2025 8:12:47 AM at.fhw.commercial_test.Server lambda$start$4
+WARNUNG: Activation limit exceeded: Attempted to activate more than 4 files.
+Jän. 18, 2025 8:12:48 AM at.fhw.commercial_test.Server handleClient
+INFORMATION: Datei gesendet: Werbeimage2.jpg
+Jän. 18, 2025 8:12:48 AM at.fhw.commercial_test.Server handleClient
+INFORMATION: Datei gesendet: Werbeimage3.png
+Jän. 18, 2025 8:12:48 AM at.fhw.commercial_test.Server handleClient
+INFORMATION: Datei gesendet: Werbeimage5.jpg
+Jän. 18, 2025 8:12:48 AM at.fhw.commercial_test.Server handleClient
+INFORMATION: Datei gesendet: Werbeimage6.jpg
+Jän. 18, 2025 8:12:48 AM at.fhw.commercial_test.Server handleClient
+INFORMATION: Datei gesendet: Werbeimage2.jpg
+Jän. 18, 2025 8:12:48 AM at.fhw.commercial_test.Server handleClient
+INFORMATION: Datei gesendet: Werbeimage3.png
+Jän. 18, 2025 8:12:48 AM at.fhw.commercial_test.Server handleClient
+INFORMATION: Datei gesendet: Werbeimage5.jpg
+Jän. 18, 2025 8:12:48 AM at.fhw.commercial_test.Server handleClient
+INFORMATION: Datei gesendet: Werbeimage6.jpg
+Jän. 18, 2025 8:13:22 AM at.fhw.commercial_test.Server lambda$start$4
+WARNUNG: Activation limit exceeded: Attempted to activate more than 4 files.
+Jän. 18, 2025 8:16:14 AM at.fhw.commercial_test.Server lambda$start$4
+INFORMATION: Aktivierte Dateien: Werbeimage1.jpg, Werbeimage2.jpg, Werbeimage3.png, Werbeimage4.jpg
+Jän. 18, 2025 8:16:16 AM at.fhw.commercial_test.Server handleClient
+INFORMATION: Datei gesendet: Werbeimage1.jpg
+Jän. 18, 2025 8:16:16 AM at.fhw.commercial_test.Server handleClient
+INFORMATION: Datei gesendet: Werbeimage2.jpg
+Jän. 18, 2025 8:16:16 AM at.fhw.commercial_test.Server handleClient
+INFORMATION: Datei gesendet: Werbeimage3.png
+Jän. 18, 2025 8:16:16 AM at.fhw.commercial_test.Server handleClient
+INFORMATION: Datei gesendet: Werbeimage4.jpg
+Jän. 18, 2025 8:16:21 AM at.fhw.commercial_test.Server lambda$start$4
+INFORMATION: Aktivierte Dateien: Werbeimage3.png, Werbeimage4.jpg, Werbeimage5.jpg, Werbeimage6.jpg
+Jän. 18, 2025 8:16:23 AM at.fhw.commercial_test.Server handleClient
+INFORMATION: Datei gesendet: Werbeimage3.png
+Jän. 18, 2025 8:16:23 AM at.fhw.commercial_test.Server handleClient
+INFORMATION: Datei gesendet: Werbeimage4.jpg
+Jän. 18, 2025 8:16:23 AM at.fhw.commercial_test.Server handleClient
+INFORMATION: Datei gesendet: Werbeimage5.jpg
+Jän. 18, 2025 8:16:23 AM at.fhw.commercial_test.Server handleClient
+INFORMATION: Datei gesendet: Werbeimage6.jpg
+Jän. 18, 2025 8:16:34 AM at.fhw.commercial_test.Server lambda$start$4
+INFORMATION: Aktivierte Dateien: Werbeimage1.jpg, Werbeimage2.jpg, Werbeimage3.png, Werbeimage4.jpg
+Jän. 18, 2025 8:16:36 AM at.fhw.commercial_test.Server handleClient
+INFORMATION: Datei gesendet: Werbeimage1.jpg
+Jän. 18, 2025 8:16:36 AM at.fhw.commercial_test.Server handleClient
+INFORMATION: Datei gesendet: Werbeimage2.jpg
+Jän. 18, 2025 8:16:36 AM at.fhw.commercial_test.Server handleClient
+INFORMATION: Datei gesendet: Werbeimage3.png
+Jän. 18, 2025 8:16:36 AM at.fhw.commercial_test.Server handleClient
+INFORMATION: Datei gesendet: Werbeimage4.jpg
+Jän. 18, 2025 9:38:09 AM at.fhw.commercial_test.Server lambda$start$4
+INFORMATION: Aktivierte Dateien: Werbeimage2.jpg
+Jän. 18, 2025 9:38:18 AM at.fhw.commercial_test.Server handleClient
+INFORMATION: Datei gesendet: Werbeimage2.jpg
+Jän. 18, 2025 9:38:27 AM at.fhw.commercial_test.Server lambda$start$4
+INFORMATION: Aktivierte Dateien: Werbeimage2.jpg, Werbeimage4.jpg
+Jän. 18, 2025 9:38:28 AM at.fhw.commercial_test.Server handleClient
+INFORMATION: Datei gesendet: Werbeimage2.jpg
+Jän. 18, 2025 9:38:28 AM at.fhw.commercial_test.Server handleClient
+INFORMATION: Datei gesendet: Werbeimage4.jpg
+Jän. 18, 2025 9:38:33 AM at.fhw.commercial_test.Server lambda$start$4
+INFORMATION: Aktivierte Dateien: Werbeimage2.jpg, Werbeimage5.jpg, Werbeimage6.jpg
+Jän. 18, 2025 9:38:34 AM at.fhw.commercial_test.Server handleClient
+INFORMATION: Datei gesendet: Werbeimage2.jpg
+Jän. 18, 2025 9:38:34 AM at.fhw.commercial_test.Server handleClient
+INFORMATION: Datei gesendet: Werbeimage5.jpg
+Jän. 18, 2025 9:38:34 AM at.fhw.commercial_test.Server handleClient
+INFORMATION: Datei gesendet: Werbeimage6.jpg
+Jän. 18, 2025 9:39:15 AM at.fhw.commercial_test.Server handleClient
+INFORMATION: Datei gesendet: Werbeimage2.jpg
+Jän. 18, 2025 9:39:15 AM at.fhw.commercial_test.Server handleClient
+INFORMATION: Datei gesendet: Werbeimage5.jpg
+Jän. 18, 2025 9:39:15 AM at.fhw.commercial_test.Server handleClient
+INFORMATION: Datei gesendet: Werbeimage6.jpg
+Jän. 18, 2025 9:42:44 AM at.fhw.commercial_test.Server handleClient
+INFORMATION: Keine aktiven Dateien an den Client gesendet.
+Jän. 18, 2025 9:42:56 AM at.fhw.commercial_test.Server lambda$start$4
+INFORMATION: Aktivierte Dateien: Werbeimage1.jpg, Werbeimage2.jpg, Werbeimage3.png, Werbeimage4.jpg
+Jän. 18, 2025 9:42:57 AM at.fhw.commercial_test.Server handleClient
+INFORMATION: Datei gesendet: Werbeimage1.jpg
+Jän. 18, 2025 9:42:57 AM at.fhw.commercial_test.Server handleClient
+INFORMATION: Datei gesendet: Werbeimage2.jpg
+Jän. 18, 2025 9:42:57 AM at.fhw.commercial_test.Server handleClient
+INFORMATION: Datei gesendet: Werbeimage3.png
+Jän. 18, 2025 9:42:57 AM at.fhw.commercial_test.Server handleClient
+INFORMATION: Datei gesendet: Werbeimage4.jpg
