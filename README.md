@@ -1,41 +1,91 @@
 # ODE_project
 
-Projektübersicht
-1. Server-Komponente:
-Entwickelt mit JavaFX und dient als zentrale Verwaltungsstelle für Bilddateien.
+Beschreibung:
+Dieses Programm besteht aus einem Client- und einem Server-Teil, die gemeinsam eine Bildverwaltungsanwendung implementieren. Die Anwendung ermöglicht das Hochladen, Anzeigen und Verwalten von Bildern sowie deren Übertragung zwischen einem Server und mehreren Clients.
 
-Funktionen:
-    
-Authentifizierung: Benutzer müssen sich mit einem Benutzername-Passwort-Konto anmelden (Beispiel: admin mit password123).
+--Server:
 
-Datei-Upload: Benutzer können Bilder (.jpg, .png) auswählen und auf den Server hochladen. Diese werden in einem definierten Verzeichnis (uploads)     gespeichert.
+Verarbeitet Datei-Uploads vom Client.
 
-Aktivierung von Bildern: Benutzer können bis zu 4 Bilder gleichzeitig aktivieren, die dann für die Übertragung an Clients bereitgestellt werden.
+Unterstützt die Aktivierung von bis zu 4 Dateien gleichzeitig.
 
-Protokollierung: Alle wichtigen Ereignisse (z. B. Datei-Uploads, Fehler, Benutzeraktionen) werden mit einem Logger dokumentiert.
+Stellt aktive Dateien für Clients bereit.
 
+--Client:
 
-2. Client-Komponente:
-JavaFX-Anwendung, die es ermöglicht, die vom Server bereitgestellten Bilder anzuzeigen und zu verwalten.
+Lädt Bilder vom Server herunter.
 
-Funktionen:
+Zeigt heruntergeladene Bilder in einer Galerie an.
 
-Bilder abrufen: Der Client lädt die aktivierten Bilder vom Server herunter.
+Unterstützt Sortieren, Entfernen und Rückgängigmachen von Aktionen.
 
-Bilder anzeigen: Die Bilder werden in einer Gitteransicht dargestellt.
+Features
+--Server
 
-Sortieren: Bilder können nach ihrem Upload-Datum oder nach ihrer relativen "Alter" (Zeit seit Upload) sortiert werden.
+Benutzer-Login mit vordefinierten Anmeldedaten.
 
-Entfernen: Der Benutzer kann Bilder aus der Ansicht entfernen.
+Hochladen von Dateien (.jpg, .png) in ein spezielles Upload-Verzeichnis.
 
-Rückgängigmachen: Entfernte Bilder können mit der "Undo"-Funktion wiederhergestellt werden.
+Aktivieren von bis zu 4 Dateien gleichzeitig.
 
+Netzwerkkommunikation, um aktive Dateien an Clients zu senden.
 
-3.Datenmodell:
+--Client
 
-Die Klasse ImageData speichert Metadaten der Bilder, wie den Dateinamen und das Upload-Datum, und berechnet das relative Alter der Bilder.
+Anzeige heruntergeladener Bilder in einer Galerie.
 
+Sortieren von Bildern nach Upload-Datum oder Alter.
 
-4.Logger-System:
+Entfernen ausgewählter Bilder aus der Galerie.
 
-Der Logger dokumentiert alle wichtigen Aktionen und Fehler in einer Datei (application.log) und dient der Nachverfolgbarkeit und Fehleranalyse.
+Rückgängigmachen der letzten Entfernen-Aktion.
+
+Kommunikation mit dem Server zur Bildübertragung.
+
+Projektstruktur
+
+Das Projekt ist in mehrere Klassen unterteilt:
+
+Server
+
+ServerApp: Hauptklasse des Servers. Verantwortlich für die Benutzeroberfläche und die Steuerung der Serverfunktionalität.
+
+FileManager: Verwaltet Dateien, einschließlich Hochladen, Aktivieren und Aktualisieren der Dateiliste.
+
+ServerNetwork: Verwaltet die Netzwerkkommunikation und stellt aktive Dateien für Clients bereit.
+
+LoggerConfig: Konfiguriert das zentrale Logging-System für die Anwendung.
+
+Client
+
+Client: Hauptklasse des Clients. Enthält die gesamte Logik zur Anzeige und Verwaltung von Bildern sowie zur Kommunikation mit dem Server.
+
+ImageData: Datenklasse, die Metadaten zu Bildern speichert (z. B. Dateiname, Upload-Datum).
+
+Verwendung
+
+--Server
+
+Starten Sie die ServerApp.
+
+Melden Sie sich mit einem der vordefinierten Benutzer an:
+
+Benutzername: admin, Passwort: password123
+
+Benutzername: user1, Passwort: mypassword
+
+Benutzername: guest, Passwort: guest123
+
+Laden Sie Dateien über die Upload-Schaltfläche hoch.
+
+Aktivieren Sie bis zu 4 Dateien über die Dateiliste.
+
+--Client
+
+Starten Sie die Client-Anwendung.
+
+Klicken Sie auf Refresh Images, um Bilder vom Server herunterzuladen.
+
+Sortieren Sie die Bilder nach Upload-Datum oder Alter.
+
+Entfernen Sie Bilder und machen Sie diese Aktionen rückgängig.
